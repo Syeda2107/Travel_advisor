@@ -1,4 +1,4 @@
-import React from 'react';  // Main Branch
+import React from 'react';  // Other Branch
 // import { Autocomplete } from '@react-google-maps/api';
 import { AppBar, Toolbar, Typography, InputBase, Box } from '@mui/material';
 import SearchIcon from '@mui/icons-material/Search';
